@@ -3,6 +3,7 @@
 
 int main()
 {
+    // Let's create a simple calculator that can sum two integers
     int num1;
     int num2;
     printf("Enter first number: ");
